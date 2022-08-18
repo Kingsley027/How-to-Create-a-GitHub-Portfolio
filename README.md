@@ -1,6 +1,6 @@
 # 📚 How to Create a GitHub Portfolio
 
-Hi there, I'm Katie! 🙋🏻‍♀️
+Hi there, I'm Kingsley! 🙋🏻‍♀️
 
 This is a **fuss-free, simple** guide to create your GitHub portfolio. 
 
@@ -49,7 +49,7 @@ You do not need to download the GitHub Desktop to set up your portfolio. Your br
 
 **Step 2: Create a new repository with the _exact name as your username_.**
 
-My username is "**katiehuangx**", so I created a new repository named "**katiehuangx**". This repository will contain the write-up of your profile.
+My username is "**Kingsley**", so I created a new repository named "**Kingsley**". This repository will contain the write-up of your profile.
 
 <kbd><img width="741" alt="Screenshot 2021-09-28 at 6 15 33 PM" src="https://user-images.githubusercontent.com/81607668/135102196-6eeea30a-a874-4fb3-a4f6-25db97d6c825.png"></kbd>
 
@@ -139,7 +139,7 @@ If you've seen my [8 Week SQL Challenge repo](https://github.com/katiehuangx/8-W
 ```sql -- Add 3 backticks followed by sql
 SELECT *
 FROM student_info
-WHERE student_name = 'Katie';
+WHERE student_name = 'Kingsley';
 ``` -- Add 3 backticks
 ````
 
@@ -147,7 +147,7 @@ This is how it will turn out:
 ```sql
 SELECT *
 FROM student_info
-WHERE student_name = 'Katie';
+WHERE student_name = 'Kingsley';
 ```
 
 ***
